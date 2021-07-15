@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/dashboard.qml</file>
+        <file>qml/HomeSlideBar.qml</file>
+        <file>qml/AppSlideBar.qml</file>
+        <file>images/wearable/36x36/alarms.png</file>
+        <file>images/wearable/36x36/fitness.png</file>
+        <file>images/wearable/36x36/navigation.png</file>
+        <file>images/wearable/36x36/notifications.png</file>
+        <file>images/wearable/36x36/settings.png</file>
+        <file>images/wearable/36x36/weather.png</file>
+        <file>images/wearable/36x36/worldclock.png</file>
+        <file>images/wearable/36x36@2/alarms.png</file>
+        <file>images/wearable/36x36@2/fitness.png</file>
+        <file>images/wearable/36x36@2/navigation.png</file>
+        <file>images/wearable/36x36@2/notifications.png</file>
+        <file>images/wearable/36x36@2/settings.png</file>
+        <file>images/wearable/36x36@2/weather.png</file>
+        <file>images/wearable/36x36@2/worldclock.png</file>
+        <file>qml/TestMouseGrabber.qml</file>
+        <file>qml/AppHaf.qml</file>
+    </qresource>
+</RCC>
